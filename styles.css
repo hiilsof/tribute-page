@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+div{
+  text-align: center;
+}
+
+.caption {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+hr {
+  width: 80%;
+  margin: 50px;
+  margin-left: 10%
+}
+
+.quote {
+  font-weight: bold;
+  font-size: 32px;
+  width: 80%
+  text-align: center;
+}
